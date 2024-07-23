@@ -19,7 +19,7 @@ Este é um projeto simples de front-end para criar uma cartela de bingo. O proje
 1. **Clone o repositório:**
 
     ```bash
-    git clone https://github.com/SeuUsuario/Bingo.git
+    git clone https://github.com/JuliaSMS/Bingo.git
     ```
 
 2. **Navegue até o diretório do projeto:**
